@@ -1,0 +1,7 @@
+node_modules/
+.env
+.wwebjs_auth/
+.wwebjs_cache/
+.wwebjs_auth_backup/
+.wwebjs_auth_backup_new/
+.wwebjs_auth_old_20261013/
